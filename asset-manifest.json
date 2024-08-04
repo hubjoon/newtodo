@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hubjoon/newtodo.git/static/css/main.5fb02985.css",
-    "main.js": "/hubjoon/newtodo.git/static/js/main.1232f53c.js",
+    "main.js": "/hubjoon/newtodo.git/static/js/main.c7eae5f2.js",
     "static/js/453.ed3810f9.chunk.js": "/hubjoon/newtodo.git/static/js/453.ed3810f9.chunk.js",
     "index.html": "/hubjoon/newtodo.git/index.html",
     "main.5fb02985.css.map": "/hubjoon/newtodo.git/static/css/main.5fb02985.css.map",
-    "main.1232f53c.js.map": "/hubjoon/newtodo.git/static/js/main.1232f53c.js.map",
+    "main.c7eae5f2.js.map": "/hubjoon/newtodo.git/static/js/main.c7eae5f2.js.map",
     "453.ed3810f9.chunk.js.map": "/hubjoon/newtodo.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fb02985.css",
-    "static/js/main.1232f53c.js"
+    "static/js/main.c7eae5f2.js"
   ]
 }
